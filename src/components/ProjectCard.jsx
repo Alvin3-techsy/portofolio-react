@@ -1,3 +1,4 @@
+import React from "react";
 function ProjectCard({ project }) {
   return (
     <article className="col-md-6 col-lg-4">
